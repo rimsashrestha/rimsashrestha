@@ -55,6 +55,11 @@ Please feel free to explore my repos and reach out with ideas or feedback!
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimsashrestha&show_icons=true&theme=tokyonight)
+![Rimsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimsashrestha&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues)
+
+![Rimsa's Streak](https://streak-stats.demolab.com?user=rimsashrestha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+![Rimsa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimsashrestha&layout=compact&theme=tokyonight)
+
