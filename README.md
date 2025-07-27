@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rimsa Shrestha
+### 👋 Hi there! I'm Rimsa Shrestha
 
 **Data Engineer · Full‑Stack & Data Enthusiast · AI & WebDev Explorer**
 
@@ -6,11 +6,11 @@
 
 ### 🔭 What I’m Working On
 
-- 🤖 Building AI-powered assistants and predictive maintenance tools (e.g. Coca-Cola Dispenser Chatbot)
-- 🧠 Exploring LLMs and GenAI apps, including fine-tuning, RAG pipelines, and prompt engineering
-- 📊 Creating visual dashboards like **AI Buzzword Tracker** using Google Trends, GitHub, and Papers with Code
-- 🚗 Developing a real-time **Smart Parking System** using predictive analytics, XGBoost, and routing optimization
-- 🐾 Designing a **Pet Adoption Matchmaking Platform** using ML clustering and NLP for compatibility scoring
+- Building AI-powered assistants and predictive maintenance tools (e.g. Coca-Cola Dispenser Chatbot)
+- Exploring LLMs and GenAI apps, including fine-tuning, RAG pipelines, and prompt engineering
+- Creating visual dashboards like **AI Buzzword Tracker** using Google Trends, GitHub, and Papers with Code
+- Developing a real-time **Smart Parking System** using predictive analytics, XGBoost, and routing optimization
+- Designing a **Pet Adoption Matchmaking Platform** using ML clustering and NLP for compatibility scoring
 
 ---
 
@@ -45,7 +45,7 @@
 | **UNO Card Game (Java)**        | Console-based version of the classic card game with full rule logic         |
 | **EasyPark (JS)**               | Interactive parking simulation with slot selection and availability logic   |
 
-⭐ Feel free to explore my repos and reach out with ideas or feedback!
+Please feel free to explore my repos and reach out with ideas or feedback!
 
 ---
 
